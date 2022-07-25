@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TXf/lsoow8Nx97mMuAbE3E63cYAfSFlnrjRpT2ifNJg=",
+  "Source": "CalculatorRestfulApp",
+  "BasePath": "_content/CalculatorRestfulApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
